@@ -1,0 +1,16 @@
+body {
+  background-color: beige;
+  min-height: 100vh;
+}
+
+.order-card {
+  min-height: 80vh;
+}
+
+img {
+  max-height: 15vh;
+}
+
+.mini-img {
+  max-height: 50px;
+}
